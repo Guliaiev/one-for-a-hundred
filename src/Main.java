@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         long score = 100;
         long payment = 1200;
-        boolean Bonus = payment > 1000;
+        boolean bonus = payment > 1000;
 
         if (Bonus) {
             long bonus = payment / 100;
